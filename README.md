@@ -1,2 +1,4 @@
 # conversor-de-monedas
-conversor de monedas hecho con java consumiendo una API
+Conversor de monedas hecho con java consumiendo una API.
+Challenge conversor de monedas del curso Java orientado a objetos.
+Author: Diego Carmona.
